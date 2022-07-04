@@ -28,3 +28,4 @@ git pull - забирает изменения с удаленного репо�
 git clone - клонирует проект с удаленного репозитория
 
 ![картинка](https://yandex.ru/images/search?from=tabbar&text=git&pos=8&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVYDfEPiFBj4%2Fmaxresdefault.jpg&rpt=simage&lr=11230)
+надо что-то написать
