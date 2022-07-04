@@ -1,4 +1,5 @@
 ## Hello world
+
 Hello, people!
 
 ## основные команды
@@ -25,4 +26,5 @@ git config --global user.email 'rrr@mail.ru' - изменяет email польз
 git push - заливает текущие локальные коммиты в удаленный репозиторий
 git pull - забирает изменения с удаленного репозитория в локальный
 git clone - клонирует проект с удаленного репозитория
-тут будет картинка
+
+![картинка](https://yandex.ru/images/search?from=tabbar&text=git&pos=8&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FVYDfEPiFBj4%2Fmaxresdefault.jpg&rpt=simage&lr=11230)
